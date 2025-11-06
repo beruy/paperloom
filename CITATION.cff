@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Paperloom in your research, please cite it as below."
+title: "Paperloom: Research-grade PDF extraction system for ZnO materials science"
+version: "0.5.1"
+date-released: "2025-02-01"
+doi: ""
+authors:
+  - family-names: "Berna"
+    given-names: ""
+    affiliation: "Independent Researcher"
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/USERNAME/paperloom"
+preferred-citation:
+  type: software
+  title: "Paperloom (v0.5.1): Scientific PDF extraction toolkit for ZnO research"
+  authors:
+    - family-names: "Berna"
+  year: 2025
+  url: "https://github.com/USERNAME/paperloom"

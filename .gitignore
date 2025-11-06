@@ -1,0 +1,93 @@
+########################################
+# Python cache
+########################################
+__pycache__/
+*.pyc
+*.pyo
+
+########################################
+# Virtual environments
+########################################
+.venv/
+venv/
+env/
+
+########################################
+# Editor / IDE
+########################################
+.vscode/
+.idea/
+*.swp
+
+########################################
+# Build & packaging
+########################################
+*.egg-info/
+dist/
+build/
+
+########################################
+# Logs
+########################################
+*.log
+logs/
+
+########################################
+# Paperloom data folders
+########################################
+# User PDFs & outputs should NOT be versioned
+data/inputs/*
+!data/inputs/.gitkeep
+
+data/outputs/*
+!data/outputs/.gitkeep
+
+# Temporary extraction cache
+.cache/
+tmp/
+temp/
+
+########################################
+# Tests / pytest
+########################################
+pytest_cache/
+.cache/
+.coverage
+.coverage.*
+
+########################################
+# Type checker
+########################################
+mypy_cache/
+pyrightcache/
+
+########################################
+# Plugin areas
+########################################
+plugins_local/
+plugins-dev/
+
+########################################
+# OS-specific
+########################################
+.DS_Store
+Thumbs.db
+
+########################################
+# Notebooks
+########################################
+.ipynb_checkpoints/
+*.ipynb
+
+########################################
+# Documents
+########################################
+# Ignore generated excel/csv unless inside docs/
+*.xlsx
+*.csv
+!docs/**/*.xlsx
+!docs/**/*.csv
+
+# Ignore random PDF exports
+*.pdf
+!docs/**/*.pdf
