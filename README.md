@@ -1,12 +1,9 @@
-# Paperloom – Module 5.1 Enhanced  
-**Research-grade PDF extraction toolkit for ZnO materials science**  
+# Paperloom
+**Research-grade PDF extraction**  
 Licensed under **CC BY-NC 4.0**
 
 Paperloom is a modular scientific extraction pipeline designed to process
-materials-science research PDFs (specifically ZnO nanoribbons, doped systems,
-vacancies, passivation, and band-gap engineering literature).  
-Module 5.1 introduces:
-
+materials-science research PDFs.
 ✅ Advanced extraction rules  
 ✅ Scientific metadata normalization  
 ✅ Multi-sheet Excel export  
