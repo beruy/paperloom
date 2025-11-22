@@ -4,6 +4,7 @@ Licensed under **CC BY-NC 4.0**
 
 Paperloom is a modular scientific extraction pipeline designed to process
 materials-science research PDFs.
+
 ✅ Advanced extraction rules  
 ✅ Scientific metadata normalization  
 ✅ Multi-sheet Excel export  
