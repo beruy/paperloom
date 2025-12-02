@@ -14,7 +14,7 @@ preferred-citation:
   type: software
   title: "Paperloom (v0.5.1): Scientific PDF extraction toolkit for ZnO research"
   authors:
-    - family-names: "Uyanık"
+  - family-names: "Uyanık"
     given-names: "Berna"
   year: 2025
   url: "https://github.com/USERNAME/paperloom"
